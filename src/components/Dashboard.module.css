@@ -1,0 +1,27 @@
+.dashboard {
+    padding: 20px;
+    background-color: #ecf0f1;
+    flex: 1;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .statCard {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .chartSection {
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
